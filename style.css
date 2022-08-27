@@ -20,3 +20,45 @@
     cursor: pointer;
 
 }
+.cat1{
+    background-color: orange;
+    border-radius: 12px;
+    padding: 10px 30px;
+}
+.cat2{
+    background-color: #ff13cf;
+    border-radius: 12px;
+    padding: 10px 30px;
+
+}
+.cat3{
+    background-color:blueviolet;
+    border-radius: 12px;
+    padding: 10px 30px;
+
+}
+.categories h1{
+    color: azure;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color:white;
+    border-radius: 10px;
+    border-top: none;
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
